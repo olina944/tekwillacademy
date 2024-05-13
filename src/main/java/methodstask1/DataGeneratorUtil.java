@@ -13,8 +13,5 @@ public class DataGeneratorUtil {
 
     public static int generateRandomInt(int min, int max) {
         return generateRandomInt(min, max);
-
-    }else {
-        return 0;
     }
 }
